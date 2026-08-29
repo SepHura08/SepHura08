@@ -1,12 +1,15 @@
 # Hi there, I'm Sep Hura 👋
 
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2D6A4F&width=435&lines=Junior+Software+Engineer;Data+Science+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2D6A4F&width=435&lines=Information+Systems+Graduate;Software+Development+Enthusiast;Data+Science+Enthusiast" alt="Typing SVG" />
 </p>
-Information Systems Graduate | Full-Stack & Machine Learning Enthusiast
-I bridge the gap between clean web development and data-driven solutions. Constantly experimenting, building practical tools, and sharing my journey in public.
+
+**Information Systems Graduate | Software Development & Data Science Enthusiast**
+
+I’m interested in building practical software and data-driven solutions. Currently strengthening my skills in **Python, data analysis, and machine learning** through hands-on projects and continuous learning.
+
 📌 Explore my repos below. If my work helps you, feel free to leave a star ⭐️.
-📬 Always open to networking, collaboration, or new opportunities. Let's talk!
+📬 Always open to networking, collaboration, and new opportunities. Let's talk!
 
 ---
 
