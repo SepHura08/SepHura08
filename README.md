@@ -1,18 +1,31 @@
 # Hi there, I'm Sep Hura 👋
 
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2D6A4F&width=435&lines=Information+Systems+Graduate;Software+Development+Enthusiast;Data+Science+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2D6A4F&width=435&lines=Backend+%26+Web+Developer;AI%2FML+Integration+Enthusiast;Turning+Models+Into+Real+Systems" alt="Typing SVG" />
 </p>
 
-**Information Systems Graduate | Software Development & Data Science Enthusiast**
+**Information Systems Graduate | Backend Developer transitioning into AI/ML Engineering**
 
-I’m interested in building practical software and data-driven solutions. Currently strengthening my skills in **Python, data analysis, and machine learning** through hands-on projects and continuous learning.
 
 📌 Explore my repos below. If my work helps you, feel free to leave a star ⭐️.
-📬 Always open to networking, collaboration, and new opportunities. Let's talk!
+📬 Open to backend / AI-ML integration roles, collaboration, and networking. Let's talk!
 
 ---
 
+## 🛠️ Tech Stack
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn"/>
+  <img src="https://img.shields.io/badge/REST%20API-005571?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST API"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+</p>
+
+---
 
 ## 🤝 Connect with Me
 
@@ -30,8 +43,3 @@ I’m interested in building practical software and data-driven solutions. Curre
 
 ---
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=sep-hura&color=2D6A4F&style=flat-square&label=Profile+Views" alt="profile views" />
-</p>
-
-> *"Code is like humor. When you have to explain it, it's bad."* — Cory House
