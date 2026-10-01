@@ -6,9 +6,7 @@
 
 **Information Systems Graduate | Backend Developer transitioning into AI/ML Engineering**
 
-
 📌 Explore my repos below. If my work helps you, feel free to leave a star ⭐️.
-📬 Open to backend / AI-ML integration roles, collaboration, and networking. Let's talk!
 
 ---
 
