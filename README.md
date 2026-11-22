@@ -1,10 +1,10 @@
 # Hi there, I'm Sep Hura 👋
 
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2D6A4F&width=435&lines=Backend+%26+Web+Developer;AI%2FML+Integration+Enthusiast;Turning+Models+Into+Real+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2D6A4F&width=465&lines=Ngoding+dulu%2C+jagonya+menyusul+setelah+begadang;Backend+%26+Web+Developer;AI%2FML+Integration+Enthusiast;Turning+Models+Into+Real+Systems" alt="Typing SVG" />
 </p>
 
-**Ngoding dulu, jagonya menyusul setelah begadang**
+
 
 
 
