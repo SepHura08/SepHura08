@@ -1,7 +1,7 @@
 # Hi there, I'm Sep Hura 👋
 
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2D6A4F&width=650&lines=Ngoding+dulu%2C+jagonya+menyusul+setelah+begadang" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2EF527&width=650&lines=Ngoding+dulu%2C+jagonya+menyusul+setelah+begadang" alt="Typing SVG" />
 </p>
 
 
