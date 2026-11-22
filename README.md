@@ -4,9 +4,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2D6A4F&width=435&lines=Backend+%26+Web+Developer;AI%2FML+Integration+Enthusiast;Turning+Models+Into+Real+Systems" alt="Typing SVG" />
 </p>
 
-**Information Systems Graduate | Backend Developer transitioning into AI/ML Engineering**
+**Ngoding dulu, jagonya menyusul setelah begadang**
 
-📌 Explore my repos below. If my work helps you, feel free to leave a star ⭐️.
+
 
 ---
 
